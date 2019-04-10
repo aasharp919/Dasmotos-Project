@@ -1,0 +1,26 @@
+@charset "UTF-8";
+.content h2 {
+    font-family: changa-one;
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    background-color: #CD8C2A;
+}
+.logo  {
+    padding-right: 643px;
+    margin-right: 0px;
+    padding-left: 670px;
+    background-color: #818AB5;
+}
+.brushes {
+    padding-left: 670px;
+    padding-right: 0px;
+    text-align: left;
+    margin-left: 0px;
+}
+.frames {
+    padding-left: 670px;
+}
+.paint {
+    padding-left: 670px;
+}
